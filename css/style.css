@@ -81,7 +81,7 @@ ui, li{
   text-align: center;
 }
 
-.feature__block__mine{
+.feature__block__main{
   display: flex;
 }
 
@@ -200,13 +200,13 @@ nav{
   display: flex;
   justify-content:center;
 }
-.feature__block__mine{
+.feature__block__main{
   margin-bottom: 30px;
 }
 .feature__block{
   width: 60%;
 }
-.feature__block__mine :last-child{
+.feature__block__main :last-child{
   margin-bottom: 0;
 }
 }
